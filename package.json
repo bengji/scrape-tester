@@ -10,6 +10,12 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "cloudflare-scraper": "^2.0.0"
+    "cloudflare-scraper": "^2.0.0",
+    "delay": "^6.0.0",
+    "puppeteer": "^22.8.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "puppeteer-real-browser": "^1.2.16",
+    "scrape-it": "^6.1.2"
   }
 }
